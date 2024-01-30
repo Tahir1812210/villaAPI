@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\magicvilla_villaAPI.props" />
+</Project>
